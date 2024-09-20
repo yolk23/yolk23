@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I'm Mikhail an aspiring web developer.<br>I love developing creative solutions for websites and tech in general.<br>
+Hi 👋 I'm Mikhail an aspiring web developer.<br>I love developing creative solutions for websites.<br>
 
 
 ## 🌐 Socials:
